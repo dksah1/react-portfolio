@@ -15,10 +15,9 @@ export default [
 	},
 	{
 		title: "Dk's Portfolio Website",
-		imgUrl:
-			'https://raw.githubusercontent.com/ShaifArfan/AYANs-portfolio/main/ReadMeImages/ReadMeBanner.png',
+		imgUrl:'https://github.com/codewithsadee/vcard-personal-portfolio/blob/master/assets/images/project-2.png?raw=true',
 		tech: ['React JS', 'CSS'],
-		workUrl: 'https://github.com/ShaifArfan/AYANs-portfolio',
+		workUrl: 'https://dksah1.github.io/portfolio-/',
 	},
 	{
 		title: 'Artistic',
